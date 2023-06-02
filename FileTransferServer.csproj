@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="sn0x.lib" Version="1.0.59" />
+    <PackageReference Include="sn0x.lib" Version="1.0.591" />
   </ItemGroup>
 
 </Project>
