@@ -11,7 +11,7 @@ public class FileTransferServer
 
     private void WriteFile(string fileContent, string senderIp)
     {
-        string tempFolder = "temp2";
+        string tempFolder = "temp3";
 
         if (!Directory.Exists(tempFolder))
             Directory.CreateDirectory(tempFolder);
