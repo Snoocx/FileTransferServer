@@ -6,5 +6,4 @@ Usage:
 <hr>
 
  ToDo
->	1. ban ip's which spam X files in X seconds
->	2. authorization (key)
+>	1. authorization (key)
